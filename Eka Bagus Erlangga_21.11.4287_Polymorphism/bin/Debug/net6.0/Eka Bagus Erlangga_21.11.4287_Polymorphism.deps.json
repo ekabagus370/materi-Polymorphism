@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Eka Bagus Erlangga_21.11.4287_Polymorphism/1.0.0": {
+        "runtime": {
+          "Eka Bagus Erlangga_21.11.4287_Polymorphism.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eka Bagus Erlangga_21.11.4287_Polymorphism/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

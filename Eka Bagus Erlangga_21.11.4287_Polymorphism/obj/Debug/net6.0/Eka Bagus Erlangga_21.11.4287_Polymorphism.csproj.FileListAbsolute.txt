@@ -1,0 +1,15 @@
+E:\adobe ilustrator\tugas\Eka Bagus Erlangga_21.11.4287_Polymorphism\Eka Bagus Erlangga_21.11.4287_Polymorphism\bin\Debug\net6.0\Eka Bagus Erlangga_21.11.4287_Polymorphism.exe
+E:\adobe ilustrator\tugas\Eka Bagus Erlangga_21.11.4287_Polymorphism\Eka Bagus Erlangga_21.11.4287_Polymorphism\bin\Debug\net6.0\Eka Bagus Erlangga_21.11.4287_Polymorphism.deps.json
+E:\adobe ilustrator\tugas\Eka Bagus Erlangga_21.11.4287_Polymorphism\Eka Bagus Erlangga_21.11.4287_Polymorphism\bin\Debug\net6.0\Eka Bagus Erlangga_21.11.4287_Polymorphism.runtimeconfig.json
+E:\adobe ilustrator\tugas\Eka Bagus Erlangga_21.11.4287_Polymorphism\Eka Bagus Erlangga_21.11.4287_Polymorphism\bin\Debug\net6.0\Eka Bagus Erlangga_21.11.4287_Polymorphism.dll
+E:\adobe ilustrator\tugas\Eka Bagus Erlangga_21.11.4287_Polymorphism\Eka Bagus Erlangga_21.11.4287_Polymorphism\bin\Debug\net6.0\Eka Bagus Erlangga_21.11.4287_Polymorphism.pdb
+E:\adobe ilustrator\tugas\Eka Bagus Erlangga_21.11.4287_Polymorphism\Eka Bagus Erlangga_21.11.4287_Polymorphism\obj\Debug\net6.0\Eka Bagus Erlangga_21.11.4287_Polymorphism.csproj.AssemblyReference.cache
+E:\adobe ilustrator\tugas\Eka Bagus Erlangga_21.11.4287_Polymorphism\Eka Bagus Erlangga_21.11.4287_Polymorphism\obj\Debug\net6.0\Eka Bagus Erlangga_21.11.4287_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+E:\adobe ilustrator\tugas\Eka Bagus Erlangga_21.11.4287_Polymorphism\Eka Bagus Erlangga_21.11.4287_Polymorphism\obj\Debug\net6.0\Eka Bagus Erlangga_21.11.4287_Polymorphism.AssemblyInfoInputs.cache
+E:\adobe ilustrator\tugas\Eka Bagus Erlangga_21.11.4287_Polymorphism\Eka Bagus Erlangga_21.11.4287_Polymorphism\obj\Debug\net6.0\Eka Bagus Erlangga_21.11.4287_Polymorphism.AssemblyInfo.cs
+E:\adobe ilustrator\tugas\Eka Bagus Erlangga_21.11.4287_Polymorphism\Eka Bagus Erlangga_21.11.4287_Polymorphism\obj\Debug\net6.0\Eka Bagus Erlangga_21.11.4287_Polymorphism.csproj.CoreCompileInputs.cache
+E:\adobe ilustrator\tugas\Eka Bagus Erlangga_21.11.4287_Polymorphism\Eka Bagus Erlangga_21.11.4287_Polymorphism\obj\Debug\net6.0\Eka Bagus Erlangga_21.11.4287_Polymorphism.dll
+E:\adobe ilustrator\tugas\Eka Bagus Erlangga_21.11.4287_Polymorphism\Eka Bagus Erlangga_21.11.4287_Polymorphism\obj\Debug\net6.0\refint\Eka Bagus Erlangga_21.11.4287_Polymorphism.dll
+E:\adobe ilustrator\tugas\Eka Bagus Erlangga_21.11.4287_Polymorphism\Eka Bagus Erlangga_21.11.4287_Polymorphism\obj\Debug\net6.0\Eka Bagus Erlangga_21.11.4287_Polymorphism.pdb
+E:\adobe ilustrator\tugas\Eka Bagus Erlangga_21.11.4287_Polymorphism\Eka Bagus Erlangga_21.11.4287_Polymorphism\obj\Debug\net6.0\Eka Bagus Erlangga_21.11.4287_Polymorphism.genruntimeconfig.cache
+E:\adobe ilustrator\tugas\Eka Bagus Erlangga_21.11.4287_Polymorphism\Eka Bagus Erlangga_21.11.4287_Polymorphism\obj\Debug\net6.0\ref\Eka Bagus Erlangga_21.11.4287_Polymorphism.dll
